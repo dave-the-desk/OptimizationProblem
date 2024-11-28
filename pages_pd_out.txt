@@ -1,0 +1,5 @@
+Choice Table:
+DAY 1:   WORK
+DAY 2:   BREAK
+DAY 3:   WORK
+DAY 4:   WORK
